@@ -1,0 +1,12 @@
+* {
+    background-color: #fff;
+}
+
+#logo {
+    width: 150px;
+    height: auto;
+}
+
+.img-main img {
+    width: 70%;
+}
